@@ -38,7 +38,7 @@ An educational technology platform in development focused on school academic man
 
 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/dominickkyalo3540
+- LinkedIn: https://www.linkedin.com/in/dominickyalo3540
 - GitHub: https://github.com/KyalloH
 
 Thanks for visiting my profile! 🚀
